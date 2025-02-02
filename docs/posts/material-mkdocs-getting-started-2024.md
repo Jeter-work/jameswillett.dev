@@ -654,9 +654,9 @@ You might want to add social icons to your footer like this:
 ```yaml title="mkdocs.yml"
 extra:
   social:
-    - icon: simple/youtube
+    - icon: material/youtube
       link: https://youtube.com/@james-willett
-    - icon: simple/linkedin
+    - icon: material/linkedin
       link: https://linkedin.com/in/willettjames
 ```
 
